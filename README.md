@@ -21,15 +21,14 @@
 
 ### iOS
 
-- 新明解国語
-- 大辞林
-- Jaccent
+- [新明解国語](https://itunes.apple.com/cn/app/%E6%96%B0%E6%98%8E%E8%A7%A3%E5%9B%BD%E8%AA%9E%E8%BE%9E%E5%85%B8-%E7%AC%AC%E4%B8%83%E7%89%88-%E7%99%BA%E9%9F%B3%E9%9F%B3%E5%A3%B0%E4%BB%98%E3%81%8D/id946807615?mt=8) - has voice recordings for each entry
+- [大辞林](https://itunes.apple.com/cn/app/%E5%A4%A7%E8%BE%9E%E6%9E%97/id299029654?mt=8) - no voice recordings but has PA marks
+- [Jaccent](https://itunes.apple.com/us/app/jaccent-japanese-accent-dict/id1252200087?mt=8)
 
 ### Android
 
-- Aedict
+- [Aedict](http://aedict.eu/) ([github](https://github.com/mvysny/aedict/))
 - [Jsho](https://play.google.com/store/apps/details?id=ric.Jsho)
-- ...
 
 ## Other
 
@@ -38,3 +37,4 @@
 - [Jisho-OJAD chrome extention](https://chrome.google.com/webstore/detail/jisho-ojad/dpaojegkimhndjkkgiaookhckojbmakd)
 - [WaniKani pitch info userscript](https://community.wanikani.com/t/userscript-wanikani-pitch-info/)
 - [Pitch accent anki extention](https://ankiweb.net/shared/info/932119536)
+- [NHK PA database](https://github.com/javdejong/nhk-pronunciation) (only PA's, the sound recordings have been removed by the repo author)
