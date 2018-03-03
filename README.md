@@ -1,8 +1,11 @@
 # Japanese Pitch accent resources
 
+If you know a resource not mentioned in here, please submit a pull request.
+
 ## Videos
 
 - [Japanese Phonetics course by Dogen](https://www.patreon.com/dogen)
+- [Japanese Pronunciation for Communication by WasedaX](https://courses.edx.org/courses/course-v1:WasedaX+JPC111x+3T2016/course/)
 
 ## Books
 
