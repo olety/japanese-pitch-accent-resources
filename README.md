@@ -1,4 +1,4 @@
-# Japanese Pitch accent resources
+# Japanese pitch accent resources
 
 If you know a resource not mentioned in here, please submit a pull request.
 
