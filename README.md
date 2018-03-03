@@ -11,6 +11,7 @@
 ## Sites
 
 - [Prosody tutor Suzuki-kun](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/phrasing/index)
+- [Weblio](http://weblio.jp/)
 
 ## Apps
 
@@ -23,6 +24,7 @@
 ### Android
 
 - Aedict
+- [Jsho](https://play.google.com/store/apps/details?id=ric.Jsho)
 - ...
 
 ## Other
