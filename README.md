@@ -19,6 +19,7 @@ If you know a resource not mentioned in here, please submit a pull request.
 - [Prosody tutor Suzuki-kun](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/phrasing/index)
 - [Weblio](http://weblio.jp/)
 - [Wadoku](https://www.wadoku.de/)
+- [Wiktionary](https://en.wiktionary.org/)
 
 ## Apps
 
