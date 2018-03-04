@@ -47,6 +47,7 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 
 ### General
 
+- [日本語標準アクセントの概要](http://www5a.biglobe.ne.jp/accent/accent.htm)
 - Apple built-in dictionary - スーパー大辞林
 - EPWING version of 大辞林
 - [NHK PA database](https://github.com/javdejong/nhk-pronunciation) (only PA's, the sound recordings have been removed by the repo author)
