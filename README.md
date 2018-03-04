@@ -58,9 +58,9 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 
 ### Anki+
 
-- [Pitch accent anki extention](https://ankiweb.net/shared/info/932119536)
+- [Anki pitch accent extention](https://ankiweb.net/shared/info/932119536)
 - [WaniKani pitch info userscript](https://community.wanikani.com/t/userscript-wanikani-pitch-info/)
-
+- [Memrise pitch accent course](https://www.memrise.com/course/272235/japanese-pitch-accent-1-introduction/)
 ## Other
 
 ### General
