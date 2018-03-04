@@ -36,7 +36,7 @@ If you know a resource not mentioned in here, please submit a pull request. Plea
 - [Aedict](http://aedict.eu/) ([github](https://github.com/mvysny/aedict/))
 - [Jsho](https://play.google.com/store/apps/details?id=ric.Jsho)
 
-### Anki-like
+### Anki+
 
 - [Pitch accent anki extention](https://ankiweb.net/shared/info/932119536)
 - [WaniKani pitch info userscript](https://community.wanikani.com/t/userscript-wanikani-pitch-info/)
