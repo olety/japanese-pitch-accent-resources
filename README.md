@@ -1,6 +1,8 @@
 # Japanese pitch accent resources
 
-If you know a resource not mentioned in here, please submit a pull request. Please make sure that your material focuses on the Tokyo/standard japanese dialect since it's the most well-researched and arguably the most useful dialect to study.
+If you know a resource not mentioned in here, please submit a pull request. 
+
+While you're at it, please make sure that your material focuses on the Tokyo/standard japanese dialect since it's the most well-researched and arguably the most useful dialect to study.
 
 ## Videos
 
