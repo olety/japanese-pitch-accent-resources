@@ -1,11 +1,12 @@
 # Japanese pitch accent resources
 
-If you know a resource not mentioned in here, please submit a pull request.
+If you know a resource not mentioned in here, please submit a pull request. Please make sure that your material focuses on the Tokyo/standard japanese dialect since it's the most well-researched and arguably the most useful dialect to study.
 
 ## Videos
 
 - [Japanese Phonetics course by Dogen](https://www.patreon.com/dogen)
 - [Japanese Pronunciation for Communication by WasedaX](https://courses.edx.org/courses/course-v1:WasedaX+JPC111x+3T2016/course/)
+- [Video/Audio introduction to Tokyo pitch accent](http://nihongo.hum.tmu.ac.jp/mic-j/accent/index.html)
 
 ## Books
 
@@ -20,6 +21,7 @@ If you know a resource not mentioned in here, please submit a pull request.
 - [Weblio](http://weblio.jp/)
 - [Wadoku](https://www.wadoku.de/)
 - [Wiktionary](https://en.wiktionary.org/)
+- [Jisho-OJAD chrome extention](https://chrome.google.com/webstore/detail/jisho-ojad/dpaojegkimhndjkkgiaookhckojbmakd)
 
 ## Apps
 
@@ -34,11 +36,26 @@ If you know a resource not mentioned in here, please submit a pull request.
 - [Aedict](http://aedict.eu/) ([github](https://github.com/mvysny/aedict/))
 - [Jsho](https://play.google.com/store/apps/details?id=ric.Jsho)
 
+### Anki-like
+
+- [Pitch accent anki extention](https://ankiweb.net/shared/info/932119536)
+- [WaniKani pitch info userscript](https://community.wanikani.com/t/userscript-wanikani-pitch-info/)
+
 ## Other
+
+### General
 
 - Apple built-in dictionary - スーパー大辞林
 - EPWING version of 大辞林
-- [Jisho-OJAD chrome extention](https://chrome.google.com/webstore/detail/jisho-ojad/dpaojegkimhndjkkgiaookhckojbmakd)
-- [WaniKani pitch info userscript](https://community.wanikani.com/t/userscript-wanikani-pitch-info/)
-- [Pitch accent anki extention](https://ankiweb.net/shared/info/932119536)
 - [NHK PA database](https://github.com/javdejong/nhk-pronunciation) (only PA's, the sound recordings have been removed by the repo author)
+
+### Genki
+
+- [Genki 1 visual tone guide](http://genki.japantimes.co.jp/site/reso/dl/onchou/Oncho_genki1.ver2.pdf)
+- [Genki 2 visual tone guide](http://genki.japantimes.co.jp/site/reso/dl/onchou/Oncho_genki2.ver2.pdf)
+
+### Shadowing
+
+- [１日１０分の発音練習](https://www.amazon.co.jp/dp/4874242863/ref=cm_sw_r_cp_ep_dp_FHrwzb2MC2N2T)
+- [Shadowing Let's Speak Japanese Intermediate to Advanced Edition](https://www.amazon.com/dp/4874244955/)
+- [Shadowing Let's Speak Japanese Beginner to Intermediate Edition](https://www.amazon.com/dp/4874243541/)
