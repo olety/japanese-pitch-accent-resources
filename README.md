@@ -21,6 +21,7 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 
 - [Prosody tutor Suzuki-kun](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/phrasing/index)
 - [Weblio](http://weblio.jp/)
+- [日本語教育用アクセント辞典](http://accent.u-biq.org/english.html)
 - [Wadoku](https://www.wadoku.de/)
 - [Wiktionary](https://en.wiktionary.org/)
 - [Jisho-OJAD chrome extention](https://chrome.google.com/webstore/detail/jisho-ojad/dpaojegkimhndjkkgiaookhckojbmakd)
