@@ -41,7 +41,7 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 - [Wadoku](https://www.wadoku.de/)
 - [Wiktionary](https://en.wiktionary.org/)
 - [Forvo](https://forvo.com/) (no accent marks but has a voice recording for almost every word)
-- [Jisho-OJAD chrome extention](https://chrome.google.com/webstore/detail/jisho-ojad/dpaojegkimhndjkkgiaookhckojbmakd)
+- [Jisho-OJAD chrome extention](https://chrome.google.com/webstore/detail/jisho-ojad/dpaojegkimhndjkkgiaookhckojbmakd) [(github)](https://github.com/itayperl/jisho-ojad)
 
 ## Apps
 
