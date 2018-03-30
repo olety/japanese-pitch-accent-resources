@@ -8,13 +8,17 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 
 - [Videos](#videos)
 - [Books](#books)
+  - [Dictionaries](#dictionaries)
+  - [Textbooks](#textbooks)
 - [Sites](#sites)
+  - [Online dictionaries](#online-dictionaries)
+  - [Other](#other)
 - [Apps](#apps)
   - [iOS](#ios)
   - [Android](#android)
   - [Anki+](#anki)
 - [Other](#other)
-  - [General](#general)
+  - [Other dictionaries](#other-dictionaries)
   - [EPWING viewers, etc.](#epwing-viewers-etc)
   - [Genki](#genki)
   - [Shadowing](#shadowing)
@@ -29,12 +33,18 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 
 ## Books
 
+### Dictionaries
 - [新明解 accent dictionary](https://www.amazon.co.jp/%E6%96%B0%E6%98%8E%E8%A7%A3%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E8%BE%9E%E5%85%B8-%E7%AC%AC2%E7%89%88-CD%E4%BB%98%E3%81%8D-%E9%87%91%E7%94%B0%E4%B8%80-%E6%98%A5%E5%BD%A6/dp/4385136726/)
 - [NHK pronunciation dictionary](https://www.amazon.co.jp/NHK-%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%99%BA%E9%9F%B3%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E6%96%B0%E8%BE%9E%E5%85%B8/dp/4140113456/)
+
+### Textbooks
 - [日本語アクセント入門](https://www.amazon.co.jp/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E5%85%A5%E9%96%80-%E6%9D%BE%E6%A3%AE-%E6%99%B6%E5%AD%90/dp/4385365318/)
 - [The Sounds of Japanese](https://www.amazon.co.jp/Sounds-Japanese-Audio-CD-CD-ROM/dp/0521617545/)
 
+
 ## Sites
+
+### Online dictionaries
 
 - [Prosody tutor Suzuki-kun](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/phrasing/index)
 - [Weblio](http://weblio.jp/)
@@ -42,7 +52,10 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 - [Wadoku](https://www.wadoku.de/)
 - [Wiktionary](https://en.wiktionary.org/)
 - [Forvo](https://forvo.com/) (no accent marks but has a voice recording for almost every word)
+
+### Other
 - [Jisho-OJAD chrome extention](https://chrome.google.com/webstore/detail/jisho-ojad/dpaojegkimhndjkkgiaookhckojbmakd) [(github)](https://github.com/itayperl/jisho-ojad)
+- [日本語標準アクセントの概要](http://www5a.biglobe.ne.jp/accent/accent.htm)
 
 ## Apps
 
@@ -62,13 +75,15 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 - [Anki pitch accent extention](https://ankiweb.net/shared/info/932119536) [(github+database)](https://github.com/javdejong/nhk-pronunciation)
 - [WaniKani pitch info userscript](https://community.wanikani.com/t/userscript-wanikani-pitch-info/)
 - [Memrise pitch accent course](https://www.memrise.com/course/272235/japanese-pitch-accent-1-introduction/)
+
 ## Other
 
-### General
+### Other dictionaries
 
-- [日本語標準アクセントの概要](http://www5a.biglobe.ne.jp/accent/accent.htm)
 - Apple built-in dictionary - スーパー大辞林
-- EPWING version of 大辞林
+- 大辞林 EPWING
+- ＮＨＫ 日本語発音アクセント辞典 EPWING
+- 新明解国語辞典 第五版 EPWING
 
 ### EPWING viewers, etc.
 
