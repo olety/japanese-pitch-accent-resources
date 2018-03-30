@@ -54,7 +54,7 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 - [Forvo](https://forvo.com/) (no accent marks but has a voice recording for almost every word)
 
 ### Other
-- [Jisho-OJAD chrome extention](https://chrome.google.com/webstore/detail/jisho-ojad/dpaojegkimhndjkkgiaookhckojbmakd) [(github)](https://github.com/itayperl/jisho-ojad)
+- [Jisho-OJAD chrome extention](https://chrome.google.com/webstore/detail/jisho-ojad/dpaojegkimhndjkkgiaookhckojbmakd) ([github](https://github.com/itayperl/jisho-ojad))
 - [日本語標準アクセントの概要](http://www5a.biglobe.ne.jp/accent/accent.htm)
 
 ## Apps
@@ -72,7 +72,7 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 
 ### Anki+
 
-- [Anki pitch accent extention](https://ankiweb.net/shared/info/932119536) [(github+database)](https://github.com/javdejong/nhk-pronunciation)
+- [Anki pitch accent extention](https://ankiweb.net/shared/info/932119536) ([github+database](https://github.com/javdejong/nhk-pronunciation))
 - [WaniKani pitch info userscript](https://community.wanikani.com/t/userscript-wanikani-pitch-info/)
 - [Memrise pitch accent course](https://www.memrise.com/course/272235/japanese-pitch-accent-1-introduction/)
 
