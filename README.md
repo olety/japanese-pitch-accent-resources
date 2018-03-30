@@ -15,6 +15,7 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
   - [Anki+](#anki)
 - [Other](#other)
   - [General](#general)
+  - [EPWING viewers, etc.](#epwing-viewers-etc)
   - [Genki](#genki)
   - [Shadowing](#shadowing)
 
@@ -58,7 +59,7 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 
 ### Anki+
 
-- [Anki pitch accent extention](https://ankiweb.net/shared/info/932119536)
+- [Anki pitch accent extention](https://ankiweb.net/shared/info/932119536) [(github+database)](https://github.com/javdejong/nhk-pronunciation)
 - [WaniKani pitch info userscript](https://community.wanikani.com/t/userscript-wanikani-pitch-info/)
 - [Memrise pitch accent course](https://www.memrise.com/course/272235/japanese-pitch-accent-1-introduction/)
 ## Other
@@ -68,7 +69,12 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 - [日本語標準アクセントの概要](http://www5a.biglobe.ne.jp/accent/accent.htm)
 - Apple built-in dictionary - スーパー大辞林
 - EPWING version of 大辞林
-- [NHK PA database](https://github.com/javdejong/nhk-pronunciation) (only PA's, the sound recordings have been removed by the repo author)
+
+### EPWING viewers, etc.
+
+- [GoldenDict](http://goldendict.org/)
+- [qolibri](http://qolibri.osdn.jp/)
+- [EPWING definitions on kindle](https://github.com/olety/epwing2kindle)
 
 ### Genki
 
