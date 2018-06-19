@@ -50,6 +50,7 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 - [Weblio](http://weblio.jp/)
 - [日本語教育用アクセント辞典](http://accent.u-biq.org/)
 - [Wadoku](https://www.wadoku.de/)
+- [Weblio](https://www.weblio.jp/)
 - [Wiktionary](https://en.wiktionary.org/)
 - [Forvo](https://forvo.com/) (no accent marks but has a voice recording for almost every word)
 
