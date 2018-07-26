@@ -47,7 +47,6 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 ### Online dictionaries
 
 - [Prosody tutor Suzuki-kun](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/phrasing/index)
-- [Weblio](http://weblio.jp/)
 - [日本語教育用アクセント辞典](http://accent.u-biq.org/)
 - [Wadoku](https://www.wadoku.de/) ([github+database](https://github.com/WaDoku/WaDokuJT-Data))
 - [Weblio](https://www.weblio.jp/)
