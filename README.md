@@ -61,11 +61,12 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 
 ### iOS
 
-- [新明解国語](https://itunes.apple.com/cn/app/%E6%96%B0%E6%98%8E%E8%A7%A3%E5%9B%BD%E8%AA%9E%E8%BE%9E%E5%85%B8-%E7%AC%AC%E4%B8%83%E7%89%88-%E7%99%BA%E9%9F%B3%E9%9F%B3%E5%A3%B0%E4%BB%98%E3%81%8D/id946807615?mt=8) - PA marks, voice recordings
-- [大辞林](https://itunes.apple.com/cn/app/%E5%A4%A7%E8%BE%9E%E6%9E%97/id299029654?mt=8) - PA marks
+- [辞書](https://www.monokakido.jp/ja/dictionaries/app/) by 物書堂 (You have to buy dictionaries within the app)
+  - [大辞林](https://www.monokakido.jp/ja/dictionaries/daijirin2/index.html) - PA marks
+  - [新明解国語辞典](https://www.monokakido.jp/ja/dictionaries/smk7/index.html) - PA marks and voice recordings
+  - [NHK 日本語発音アクセント新辞典](https://www.monokakido.jp/ja/dictionaries/nhkaccent2/index.html) - PA marks and voice recordings for the word and the word+particle
 - [例解学習国語辞典](https://itunes.apple.com/jp/app/%E4%BE%8B%E8%A7%A3%E5%AD%A6%E7%BF%92%E5%9B%BD%E8%AA%9E%E8%BE%9E%E5%85%B8-%E7%AC%AC%E4%B9%9D%E7%89%88-%E6%BC%A2%E6%A4%9C%E9%81%8E%E5%8E%BB%E5%95%8F%E3%83%89%E3%83%AA%E3%83%AB/id615900736?mt=8) - High tone in bold 
 - [Jaccent](https://itunes.apple.com/us/app/jaccent-japanese-accent-dict/id1252200087?mt=8)
-- [NHK 日本語発音アクセント新辞典](https://www.monokakido.jp/ja/dictionaries/nhkaccent2/index.html)
 
 ### Android
 
@@ -74,7 +75,8 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 
 ### Anki+
 
-- [Anki pitch accent extention](https://ankiweb.net/shared/info/932119536) ([github+database](https://github.com/javdejong/nhk-pronunciation))
+- [Migaku Japanese addon](https://ankiweb.net/shared/info/278530045) ([github](https://github.com/migaku-official/Migaku-Japanese-Addon))
+- [Anki pitch accent addon](https://ankiweb.net/shared/info/932119536) ([github+database](https://github.com/javdejong/nhk-pronunciation))
 - [WaniKani pitch info userscript](https://community.wanikani.com/t/userscript-wanikani-pitch-info/)
 - [Memrise pitch accent course](https://www.memrise.com/course/272235/japanese-pitch-accent-1-introduction/)
 
