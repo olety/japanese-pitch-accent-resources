@@ -61,7 +61,7 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 
 ### iOS
 
-- [辞書](https://www.monokakido.jp/ja/dictionaries/app/) by 物書堂 (You have to buy dictionaries within the app)
+- [辞書](https://www.monokakido.jp/ja/dictionaries/app/) (You have to buy dictionaries within the app)
   - [大辞林](https://www.monokakido.jp/ja/dictionaries/daijirin2/index.html) - PA marks
   - [新明解国語辞典](https://www.monokakido.jp/ja/dictionaries/smk7/index.html) - PA marks and voice recordings
   - [NHK 日本語発音アクセント新辞典](https://www.monokakido.jp/ja/dictionaries/nhkaccent2/index.html) - PA marks and voice recordings for the word and the word+particle
