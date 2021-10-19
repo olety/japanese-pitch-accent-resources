@@ -107,3 +107,6 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 - [Shadowing Let's Speak Japanese Intermediate to Advanced Edition](https://www.amazon.com/dp/4874244955/)
 - [Shadowing Let's Speak Japanese Beginner to Intermediate Edition](https://www.amazon.com/dp/4874243541/)
 
+### Browser Extentions
+- [Jisho Pitcher](https://fi-le.net/programming/#jisho-pitcher)
+- [Jisho-OJAD](https://github.com/itayperl/jisho-ojad)
