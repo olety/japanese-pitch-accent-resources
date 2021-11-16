@@ -55,8 +55,8 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 - [Sakura-paris](https://sakura-paris.org/dict/NHK%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%99%BA%E9%9F%B3%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E8%BE%9E%E5%85%B8/) (online search for the NHK日本語発音アクセント辞典)
 
 ### Other
-- [Jisho Pitcher browser extention](https://fi-le.net/programming/#jisho-pitcher)
-- [Jisho-OJAD chrome extention](https://chrome.google.com/webstore/detail/jisho-ojad/dpaojegkimhndjkkgiaookhckojbmakd) ([github](https://github.com/itayperl/jisho-ojad))
+- [Jisho Pitcher browser extension](https://fi-le.net/programming/#jisho-pitcher)
+- [Jisho-OJAD chrome extension](https://chrome.google.com/webstore/detail/jisho-ojad/dpaojegkimhndjkkgiaookhckojbmakd) ([github](https://github.com/itayperl/jisho-ojad))
 - [日本語標準アクセントの概要](http://www5a.biglobe.ne.jp/accent/accent.htm)
 
 ## Apps
@@ -98,7 +98,8 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 - [GoldenDict](http://goldendict.org/)
 - [qolibri](http://qolibri.osdn.jp/)
 - [EPWING definitions on kindle](https://github.com/olety/epwing2kindle)
-
+- [Yomichan browser extension](https://foosoft.net/projects/yomichan/) ([github](https://github.com/FooSoft/yomichan), can convert dictionaries from epwing using [yomichan-import](https://foosoft.net/projects/yomichan-import/))
+ 
 ### Genki
 
 - [Genki 1 visual tone guide](http://genki.japantimes.co.jp/site/reso/dl/onchou/Oncho_genki1.ver2.pdf)
