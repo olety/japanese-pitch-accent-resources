@@ -63,10 +63,11 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 
 ### iOS
 
-- [辞書](https://www.monokakido.jp/ja/dictionaries/app/) (You have to buy dictionaries within the app)
-  - [大辞林](https://www.monokakido.jp/ja/dictionaries/daijirin2/index.html) - PA marks
-  - [新明解国語辞典](https://www.monokakido.jp/ja/dictionaries/smk7/index.html) - PA marks and voice recordings
-  - [NHK 日本語発音アクセント新辞典](https://www.monokakido.jp/ja/dictionaries/nhkaccent2/index.html) - PA marks and voice recordings for the word and the word+particle
+- [辞書](https://www.monokakido.jp/ja/dictionaries/app/) (You have to buy dictionaries within the app; compatible with MacOs Big Sur)
+  - 大辞林 ([3rd edition](https://www.monokakido.jp/ja/dictionaries/daijirin/index.html), [4th edition](https://www.monokakido.jp/ja/dictionaries/daijirin2/index.html)) - PA marks
+  - 新明解国語辞典 ([7th edition](https://www.monokakido.jp/ja/dictionaries/smk7/index.html), [8th edition](https://www.monokakido.jp/ja/dictionaries/smk8/index.html)) - PA marks and voice recordings
+  - [大辞泉](https://www.monokakido.jp/ja/dictionaries/daijisen2/index.html) - PA marks and voice recordings
+  - [NHK 日本語発音アクセント新辞典](https://www.monokakido.jp/ja/dictionaries/nhkaccent2/index.html)  - PA marks and voice recordings for the word and the word+particle
 - [例解学習国語辞典](https://itunes.apple.com/jp/app/%E4%BE%8B%E8%A7%A3%E5%AD%A6%E7%BF%92%E5%9B%BD%E8%AA%9E%E8%BE%9E%E5%85%B8-%E7%AC%AC%E4%B9%9D%E7%89%88-%E6%BC%A2%E6%A4%9C%E9%81%8E%E5%8E%BB%E5%95%8F%E3%83%89%E3%83%AA%E3%83%AB/id615900736?mt=8) - High tone in bold 
 - [Jaccent](https://itunes.apple.com/us/app/jaccent-japanese-accent-dict/id1252200087?mt=8)
 
