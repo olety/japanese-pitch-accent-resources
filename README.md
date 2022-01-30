@@ -30,6 +30,7 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 - [Japanese Phonetics course by Dogen](https://www.patreon.com/dogen)
 - [Japanese Pronunciation for Communication by WasedaX](https://courses.edx.org/courses/course-v1:WasedaX+JPC111x+3T2016/course/)
 - [Video/Audio introduction to Tokyo pitch accent](http://nihongo.hum.tmu.ac.jp/mic-j/accent/index.html)
+- [Yudai Sensei YouTube channel](https://www.youtube.com/user/zuoyexiongda/videos) (PA quizzes, breakdowns of PA in texts, etc.)
 
 ## Books
 
