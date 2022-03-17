@@ -59,6 +59,7 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 - [Jisho Pitcher browser extension](https://fi-le.net/programming/#jisho-pitcher)
 - [Jisho-OJAD chrome extension](https://chrome.google.com/webstore/detail/jisho-ojad/dpaojegkimhndjkkgiaookhckojbmakd) ([github](https://github.com/itayperl/jisho-ojad))
 - [日本語標準アクセントの概要](http://www5a.biglobe.ne.jp/accent/accent.htm)
+- [Perception tests - minimal pairs, x-mora words, etc.](https://kotu.io/tests)
 
 ## Apps
 
