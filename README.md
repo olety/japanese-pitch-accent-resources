@@ -78,6 +78,7 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 - [Aedict](http://aedict.eu/) ([github](https://github.com/mvysny/aedict/))
 - [Jsho](https://play.google.com/store/apps/details?id=ric.Jsho)
 - [Jiten](https://play.google.com/store/apps/details?id=dev.obfusk.jiten) ([github](https://github.com/obfusk/jiten))
+- [Akebi](https://play.google.com/store/apps/details?id=com.craxic.akebifree)
 
 ### Anki+
 
