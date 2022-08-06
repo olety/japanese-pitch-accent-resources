@@ -49,11 +49,13 @@ While you're at it, please make sure that your material focuses on the Tokyo/sta
 
 - [Prosody tutor Suzuki-kun](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/phrasing/index)
 - [日本語教育用アクセント辞典](http://accent.u-biq.org/)
+- [Sakura-paris](https://sakura-paris.org/dict/NHK%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%99%BA%E9%9F%B3%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E8%BE%9E%E5%85%B8/) (online search for the NHK日本語発音アクセント辞典)
+- [jpdb](https://jpdb.io/) (accent marks, audio, English translation and many media-related features)
+- [jotoba](https://jotoba.de/) (accent marks, no audio)
 - [Wadoku](https://www.wadoku.de/) ([github+database](https://github.com/WaDoku/WaDokuJT-Data))
 - [Weblio](https://www.weblio.jp/)
 - [Wiktionary](https://en.wiktionary.org/)
 - [Forvo](https://forvo.com/) (no accent marks but has a voice recording for almost every word)
-- [Sakura-paris](https://sakura-paris.org/dict/NHK%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%99%BA%E9%9F%B3%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E8%BE%9E%E5%85%B8/) (online search for the NHK日本語発音アクセント辞典)
 
 ### Other
 - [Jisho Pitcher browser extension](https://fi-le.net/programming/#jisho-pitcher)
